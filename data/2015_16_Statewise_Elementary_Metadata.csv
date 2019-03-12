@@ -1,0 +1,817 @@
+Field name,Description
+AC_YEAR,AC_YEAR: AC_YEAR
+STATCD,Data Reported from: Data Reported from
+STATNAME,Data Reported from: Data Reported from
+DISTRICTS,Data Reported from: Data Reported from
+BLOCKS,Data Reported from: Data Reported from
+VILLAGES,Data Reported from: Data Reported from
+CLUSTERS,Data Reported from: Data Reported from
+TOTPOPULAT,Basic data from Census 2011: Total Population(in 1000's)
+P_URB_POP,Basic data from Census 2011: Percentage Urban Population
+POPULATION_0_6,Basic data from Census 2011: Percentage Population of Age Group 0-6
+GROWTHRATE,Basic data from Census 2011: Growth Rate
+SEXRATIO,Basic data from Census 2011: Sex Ratio
+P_SC_POP,Basic data from Census 2011: Percentage SC Population
+P_ST_POP,Basic data from Census 2011: Percentage ST Population
+OVERALL_LI,Basic data from Census 2011: Literacy Rate
+FEMALE_LIT,Basic data from Census 2011: Female Literacy Rate
+MALE_LIT,Basic data from Census 2011: Male Literacy Rate
+AREA_SQKM,Basic data from Census 2011: Area (Sq. KM)
+TOT_6_10_15,Projected Population : Age Group 6 to 10
+TOT_11_13_15,Projected Population : Age Group 11 to 13
+SCH1,Schools By Category: Primary Only
+SCH2,Schools By Category: Primary with Upper Primary
+SCH3,Schools By Category: Primary with upper Primary Sec/H.Sec
+SCH4,Schools By Category: Upper Primary Only
+SCH5,Schools By Category: Upper Primary with Sec./H.Sec
+SCH6,Schools By Category: Primary with upper Primary Sec
+SCH7,Schools By Category: Upper Primary with  Sec.
+SCH9,Schools By Category: No Response
+SCHTOT,Schools By Category: Total
+SCH1G,Schools by Category: Government: Primary Only
+SCH2G,Schools by Category: Government: Primary with Upper Primary
+SCH3G,Schools by Category: Government: Primary with upper Primary Sec/H.Sec
+SCH4G,Schools by Category: Government: Upper Primary Only
+SCH5G,Schools by Category: Government: Upper Primary with Sec./H.Sec
+SCH6G,Schools by Category: Government: Primary with upper Primary Sec
+SCH7G,Schools by Category: Government: Upper Primary with  Sec.
+SCH9G,Schools by Category: Government: No Response
+SCHTOTG,Schools by Category: Government: Total
+SCH1P,Schools by Category: Private : Primary Only
+SCH2P,Schools by Category: Private : Primary with Upper Primary
+SCH3P,Schools by Category: Private : Primary with upper Primary Sec/H.Sec
+SCH4P,Schools by Category: Private : Upper Primary Only
+SCH5P,Schools by Category: Private : Upper Primary with Sec./H.Sec
+SCH6P,Schools by Category: Private : Primary with upper Primary Sec
+SCH7P,Schools by Category: Private : Upper Primary with  Sec.
+SCH9P,Schools by Category: Private : No Response
+SCHTOTP,Schools by Category: Private : Total
+SCH1M,Schools by Category: Madarsas & Unrecognised: Primary Only
+SCH2M,Schools by Category: Madarsas & Unrecognised: Primary with Upper Primary
+SCH3M,Schools by Category: Madarsas & Unrecognised: Primary with upper Primary Sec/H.Sec
+SCH4M,Schools by Category: Madarsas & Unrecognised: Upper Primary Only
+SCH5M,Schools by Category: Madarsas & Unrecognised: Upper Primary with Sec./H.Sec
+SCH6M,Schools by Category: Madarsas & Unrecognised: Primary with upper Primary Sec
+SCH7M,Schools by Category: Madarsas & Unrecognised: Upper Primary with  Sec.
+SCH9M,Schools by Category: Madarsas & Unrecognised: No Response
+SCHTOTM,Schools by Category: Madarsas & Unrecognised: Total
+SCH1GR,Government Schools by Category - Rural: Primary Only
+SCH2GR,Government Schools by Category - Rural: Primary with Upper Primary
+SCH3GR,Government Schools by Category - Rural: Primary with upper Primary Sec/H.Sec
+SCH4GR,Government Schools by Category - Rural: Upper Primary Only
+SCH5GR,Government Schools by Category - Rural: Upper Primary with Sec./H.Sec
+SCH6GR,Government Schools by Category - Rural: Primary with upper Primary Sec
+SCH7GR,Government Schools by Category - Rural: Upper Primary with  Sec.
+SCH9GR,Government Schools by Category - Rural: No Response
+SCHTOTGR,Government Schools by Category - Rural: Total
+SCH1GA,Schools by Category: Government & Aided : Primary Only
+SCH2GA,Schools by Category: Government & Aided : Primary with Upper Primary
+SCH3GA,Schools by Category: Government & Aided : Primary with upper Primary Sec/H.Sec
+SCH4GA,Schools by Category: Government & Aided : Upper Primary Only
+SCH5GA,Schools by Category: Government & Aided : Upper Primary with Sec./H.Sec
+SCH6GA,Schools by Category: Government & Aided : Primary with upper Primary Sec
+SCH7GA,Schools by Category: Government & Aided : Upper Primary with  Sec.
+SCH9GA,Schools by Category: Government & Aided : No Response
+SCHTOTGA,Schools by Category: Government & Aided : Total
+SCH1PR,Private Schools by Category - Rural: Primary Only
+SCH2PR,Private Schools by Category - Rural: Primary with Upper Primary
+SCH3PR,Private Schools by Category - Rural: Primary with upper Primary Sec/H.Sec
+SCH4PR,Private Schools by Category - Rural: Upper Primary Only
+SCH5PR,Private Schools by Category - Rural: Upper Primary with Sec./H.Sec
+SCH6PR,Private Schools by Category - Rural: Primary with upper Primary Sec
+SCH7PR,Private Schools by Category - Rural: Upper Primary with  Sec.
+SCH9PR,Private Schools by Category - Rural: No Response
+SCHTOTPR,Private Schools by Category - Rural: Total
+SCHBOY1,Schools by Category: Boys Only: Primary Only
+SCHBOY2,Schools by Category: Boys Only: Primary with Upper Primary
+SCHBOY3,Schools by Category: Boys Only: Primary with upper Primary Sec/H.Sec
+SCHBOY4,Schools by Category: Boys Only: Upper Primary Only
+SCHBOY5,Schools by Category: Boys Only: Upper Primary with Sec./H.Sec
+SCHBOY6,Schools by Category: Boys Only: Primary with upper Primary Sec
+SCHBOY7,Schools by Category: Boys Only: Upper Primary with  Sec.
+SCHBOY9,Schools by Category: Boys Only: No Response
+SCHBOYTOT,Schools by Category: Boys Only: Total
+SCHGIR1,Schools by Category: Girls Only: Primary Only
+SCHGIR2,Schools by Category: Girls Only: Primary with Upper Primary
+SCHGIR3,Schools by Category: Girls Only: Primary with upper Primary Sec/H.Sec
+SCHGIR4,Schools by Category: Girls Only: Upper Primary Only
+SCHGIR5,Schools by Category: Girls Only: Upper Primary with Sec./H.Sec
+SCHGIR6,Schools by Category: Girls Only: Primary with upper Primary Sec
+SCHGIR7,Schools by Category: Girls Only: Upper Primary with  Sec.
+SCHGIR9,Schools by Category: Girls Only: No Response
+SCHGIRTOT,Schools by Category: Girls Only: Total
+ENR1,Elementary Enrolment by School Category: Primary Only
+ENR2,Elementary Enrolment by School Category: Primary with Upper Primary
+ENR3,Elementary Enrolment by School Category: Primary with upper Primary Sec/H.Sec
+ENR4,Elementary Enrolment by School Category: Upper Primary Only
+ENR5,Elementary Enrolment by School Category: Upper Primary with Sec./H.Sec
+ENR6,Elementary Enrolment by School Category: Primary with upper Primary Sec
+ENR7,Elementary Enrolment by School Category: Upper Primary with  Sec.
+ENR9,Elementary Enrolment by School Category: No Response
+ENRTOT,Elementary Enrolment by School Category: Total
+ENR1G,Elementary Enrolment by School Category (Government): Primary Only
+ENR2G,Elementary Enrolment by School Category (Government): Primary with Upper Primary
+ENR3G,Elementary Enrolment by School Category (Government): Primary with upper Primary Sec/H.Sec
+ENR4G,Elementary Enrolment by School Category (Government): Upper Primary Only
+ENR5G,Elementary Enrolment by School Category (Government): Upper Primary with Sec./H.Sec
+ENR6G,Elementary Enrolment by School Category (Government): Primary with upper Primary Sec
+ENR7G,Elementary Enrolment by School Category (Government): Upper Primary with  Sec.
+ENR9G,Elementary Enrolment by School Category (Government): No Response
+ENRTOTG,Elementary Enrolment by School Category (Government): Total
+ENR1P,Elementary Enrolment by School Category (Private): Primary Only
+ENR2P,Elementary Enrolment by School Category (Private): Primary with Upper Primary
+ENR3P,Elementary Enrolment by School Category (Private): Primary with upper Primary Sec/H.Sec
+ENR4P,Elementary Enrolment by School Category (Private): Upper Primary Only
+ENR5P,Elementary Enrolment by School Category (Private): Upper Primary with Sec./H.Sec
+ENR6P,Elementary Enrolment by School Category (Private): Primary with upper Primary Sec
+ENR7P,Elementary Enrolment by School Category (Private): Upper Primary with  Sec.
+ENR9P,Elementary Enrolment by School Category (Private): No Response
+ENRTOTP,Elementary Enrolment by School Category (Private): Total
+ENR1M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Primary Only
+ENR2M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Primary with Upper Primary
+ENR3M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Primary with upper Primary Sec/H.Sec
+ENR4M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Upper Primary Only
+ENR5M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Upper Primary with Sec./H.Sec
+ENR6M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Primary with upper Primary Sec
+ENR7M,Elementary Enrolment by School Category (Madarsas and UnRecognized): Upper Primary with  Sec.
+ENR9M,Elementary Enrolment by School Category (Madarsas and UnRecognized): No Response
+ENRTOTM,Elementary Enrolment by School Category (Madarsas and UnRecognized): Total
+ENR1GR,Elementary Enrolment by School Category (Government) - Rural: Primary Only
+ENR2GR,Elementary Enrolment by School Category (Government) - Rural: Primary with Upper Primary
+ENR3GR,Elementary Enrolment by School Category (Government) - Rural: Primary with upper Primary Sec/H.Sec
+ENR4GR,Elementary Enrolment by School Category (Government) - Rural: Upper Primary Only
+ENR5GR,Elementary Enrolment by School Category (Government) - Rural: Upper Primary with Sec./H.Sec
+ENR6GR,Elementary Enrolment by School Category (Government) - Rural: Primary with upper Primary Sec
+ENR7GR,Elementary Enrolment by School Category (Government) - Rural: Upper Primary with  Sec.
+ENR9GR,Elementary Enrolment by School Category (Government) - Rural: No Response
+ENRTOTGR,Elementary Enrolment by School Category (Government) - Rural: Total
+ENR1PR,Elementary Enrolment by School Category (Private) - Rural: Primary Only
+ENR2PR,Elementary Enrolment by School Category (Private) - Rural: Primary with Upper Primary
+ENR3PR,Elementary Enrolment by School Category (Private) - Rural: Primary with upper Primary Sec/H.Sec
+ENR4PR,Elementary Enrolment by School Category (Private) - Rural: Upper Primary Only
+ENR5PR,Elementary Enrolment by School Category (Private) - Rural: Upper Primary with Sec./H.Sec
+ENR6PR,Elementary Enrolment by School Category (Private) - Rural: Primary with upper Primary Sec
+ENR7PR,Elementary Enrolment by School Category (Private) - Rural: Upper Primary with  Sec.
+ENR9PR,Elementary Enrolment by School Category (Private) - Rural: No Response
+ENRTOTPR,Elementary Enrolment by School Category (Private) - Rural: Total
+TCH1G,Teachers by School Category (Government): Primary Only
+TCH2G,Teachers by School Category (Government): Primary with Upper Primary
+TCH3G,Teachers by School Category (Government): Primary with upper Primary Sec/H.Sec
+TCH4G,Teachers by School Category (Government): Upper Primary Only
+TCH5G,Teachers by School Category (Government): Upper Primary with Sec./H.Sec
+TCH6G,Teachers by School Category (Government): Primary with upper Primary Sec
+TCH7G,Teachers by School Category (Government): Upper Primary with  Sec.
+TCH9G,Teachers by School Category (Government): No Response
+TCHTOTG,Teachers by School Category (Government): Total
+TCH1P,Teachers by School Category ( Private): Primary Only
+TCH2P,Teachers by School Category ( Private): Primary with Upper Primary
+TCH3P,Teachers by School Category ( Private): Primary with upper Primary Sec/H.Sec
+TCH4P,Teachers by School Category ( Private): Upper Primary Only
+TCH5P,Teachers by School Category ( Private): Upper Primary with Sec./H.Sec
+TCH6P,Teachers by School Category ( Private): Primary with upper Primary Sec
+TCH7P,Teachers by School Category ( Private): Upper Primary with  Sec.
+TCH9P,Teachers by School Category ( Private): No Response
+TCHTOTP,Teachers by School Category ( Private): Total
+TCH1M,Teachers by School Category (Madarsas and UnRcognized): Primary Only
+TCH2M,Teachers by School Category (Madarsas and UnRcognized): Primary with Upper Primary
+TCH3M,Teachers by School Category (Madarsas and UnRcognized): Primary with upper Primary Sec/H.Sec
+TCH4M,Teachers by School Category (Madarsas and UnRcognized): Upper Primary Only
+TCH5M,Teachers by School Category (Madarsas and UnRcognized): Upper Primary with Sec./H.Sec
+TCH6M,Teachers by School Category (Madarsas and UnRcognized): Primary with upper Primary Sec
+TCH7M,Teachers by School Category (Madarsas and UnRcognized): Upper Primary with  Sec.
+TCH9M,Teachers by School Category (Madarsas and UnRcognized): No Response
+TCHTOTM,Teachers by School Category (Madarsas and UnRcognized): Total
+SCLS1,Single-Classroom Schools: Primary Only
+SCLS2,Single-Classroom Schools: Primary with Upper Primary
+SCLS3,Single-Classroom Schools: Primary with upper Primary Sec/H.Sec
+SCLS4,Single-Classroom Schools: Upper Primary Only
+SCLS5,Single-Classroom Schools: Upper Primary with Sec./H.Sec
+SCLS6,Single-Classroom Schools: Primary with upper Primary Sec
+SCLS7,Single-Classroom Schools: Upper Primary with  Sec.
+SCLSTOT,Single-Classroom Schools: Total
+STCH1,Single-Teacher Schools: Primary Only
+STCH2,Single-Teacher Schools: Primary with Upper Primary
+STCH3,Single-Teacher Schools: Primary with upper Primary Sec/H.Sec
+STCH4,Single-Teacher Schools: Upper Primary Only
+STCH5,Single-Teacher Schools: Upper Primary with Sec./H.Sec
+STCH6,Single-Teacher Schools: Primary with upper Primary Sec
+STCH7,Single-Teacher Schools: Upper Primary with  Sec.
+STCHTOT,Single-Teacher Schools: Total
+ROAD1,Schools Approachable by All Weather Road: Primary Only
+ROAD2,Schools Approachable by All Weather Road: Primary with Upper Primary
+ROAD3,Schools Approachable by All Weather Road: Primary with upper Primary Sec/H.Sec
+ROAD4,Schools Approachable by All Weather Road: Upper Primary Only
+ROAD5,Schools Approachable by All Weather Road: Upper Primary with Sec./H.Sec
+ROAD6,Schools Approachable by All Weather Road: Primary with upper Primary Sec
+ROAD7,Schools Approachable by All Weather Road: Upper Primary with  Sec.
+ROADTOT,Schools Approachable by All Weather Road: Total
+SPLAY1,Schools with Playground Facility: Primary Only
+SPLAY2,Schools with Playground Facility: Primary with Upper Primary
+SPLAY3,Schools with Playground Facility: Primary with upper Primary Sec/H.Sec
+SPLAY4,Schools with Playground Facility: Upper Primary Only
+SPLAY5,Schools with Playground Facility: Upper Primary with Sec./H.Sec
+SPLAY6,Schools with Playground Facility: Primary with upper Primary Sec
+SPLAY7,Schools with Playground Facility: Upper Primary with  Sec.
+SPLAYTOT,Schools with Playground Facility: Total
+SBNDR1,Schools with Boundarywall: Primary Only
+SBNDR2,Schools with Boundarywall: Primary with Upper Primary
+SBNDR3,Schools with Boundarywall: Primary with upper Primary Sec/H.Sec
+SBNDR4,Schools with Boundarywall: Upper Primary Only
+SBNDR5,Schools with Boundarywall: Upper Primary with Sec./H.Sec
+SBNDR6,Schools with Boundarywall: Primary with upper Primary Sec
+SBNDR7,Schools with Boundarywall: Upper Primary with  Sec.
+SBNDRTOT,Schools with Boundarywall: Total
+SGTOIL1,Schools with Girls' Toilet: Primary Only
+SGTOIL2,Schools with Girls' Toilet: Primary with Upper Primary
+SGTOIL3,Schools with Girls' Toilet: Primary with upper Primary Sec/H.Sec
+SGTOIL4,Schools with Girls' Toilet: Upper Primary Only
+SGTOIL5,Schools with Girls' Toilet: Upper Primary with Sec./H.Sec
+SGTOIL6,Schools with Girls' Toilet: Primary with upper Primary Sec
+SGTOIL7,Schools with Girls' Toilet: Upper Primary with  Sec.
+SGTOILTOT,Schools with Girls' Toilet: Total
+SBTOIL1,Schools with Boys' Toilet: Primary Only
+SBTOIL2,Schools with Boys' Toilet: Primary with Upper Primary
+SBTOIL3,Schools with Boys' Toilet: Primary with upper Primary Sec/H.Sec
+SBTOIL4,Schools with Boys' Toilet: Upper Primary Only
+SBTOIL5,Schools with Boys' Toilet: Upper Primary with Sec./H.Sec
+SBTOIL6,Schools with Boys' Toilet: Primary with upper Primary Sec
+SBTOIL7,Schools with Boys' Toilet: Upper Primary with  Sec.
+SBTOILTOT,Schools with Boys' Toilet: Total
+SWAT1,Schools with Drinking Water: Primary Only
+SWAT2,Schools with Drinking Water: Primary with Upper Primary
+SWAT3,Schools with Drinking Water: Primary with upper Primary Sec/H.Sec
+SWAT4,Schools with Drinking Water: Upper Primary Only
+SWAT5,Schools with Drinking Water: Upper Primary with Sec./H.Sec
+SWAT6,Schools with Drinking Water: Primary with upper Primary Sec
+SWAT7,Schools with Drinking Water: Upper Primary with  Sec.
+SWATTOT,Schools with Drinking Water: Total
+SELE1,Schools with Electricity: Primary Only
+SELE2,Schools with Electricity: Primary with Upper Primary
+SELE3,Schools with Electricity: Primary with upper Primary Sec/H.Sec
+SELE4,Schools with Electricity: Upper Primary Only
+SELE5,Schools with Electricity: Upper Primary with Sec./H.Sec
+SELE6,Schools with Electricity: Primary with upper Primary Sec
+SELE7,Schools with Electricity: Upper Primary with  Sec.
+SELETOT,Schools with Electricity: Total
+SCOMP1,Schools with Computer: Primary Only
+SCOMP2,Schools with Computer: Primary with Upper Primary
+SCOMP3,Schools with Computer: Primary with upper Primary Sec/H.Sec
+SCOMP4,Schools with Computer: Upper Primary Only
+SCOMP5,Schools with Computer: Upper Primary with Sec./H.Sec
+SCOMP6,Schools with Computer: Primary with upper Primary Sec
+SCOMP7,Schools with Computer: Upper Primary with  Sec.
+SCOMPTOT,Schools with Computer: Total
+SRAM1,Schools with Ramp (where needed): Primary Only
+SRAM2,Schools with Ramp (where needed): Primary with Upper Primary
+SRAM3,Schools with Ramp (where needed): Primary with upper Primary Sec/H.Sec
+SRAM4,Schools with Ramp (where needed): Upper Primary Only
+SRAM5,Schools with Ramp (where needed): Upper Primary with Sec./H.Sec
+SRAM6,Schools with Ramp (where needed): Primary with upper Primary Sec
+SRAM7,Schools with Ramp (where needed): Upper Primary with  Sec.
+SRAMTOT,Schools with Ramp (where needed): Total
+SRAMN1,Schools where Ramp is Required: Primary Only
+SRAMN2,Schools where Ramp is Required: Primary with Upper Primary
+SRAMN3,Schools where Ramp is Required: Primary with upper Primary Sec/H.Sec
+SRAMN4,Schools where Ramp is Required: Upper Primary Only
+SRAMN5,Schools where Ramp is Required: Upper Primary with Sec./H.Sec
+SRAMN6,Schools where Ramp is Required: Primary with upper Primary Sec
+SRAMN7,Schools where Ramp is Required: Upper Primary with  Sec.
+SRAMNTOT,Schools where Ramp is Required: Total
+ESTD1,Schools Established Since 2001: Primary Only
+ESTD2,Schools Established Since 2001: Primary with Upper Primary
+ESTD3,Schools Established Since 2001: Primary with upper Primary Sec/H.Sec
+ESTD4,Schools Established Since 2001: Upper Primary Only
+ESTD5,Schools Established Since 2001: Upper Primary with Sec./H.Sec
+ESTD6,Schools Established Since 2001: Primary with upper Primary Sec
+ESTD7,Schools Established Since 2001: Upper Primary with  Sec.
+ESTDTOT,Schools Established Since 2001: Total
+MDM1,Schools Providing Mid-Day Meal (Government & Aided Schools): Primary Only
+MDM2,Schools Providing Mid-Day Meal (Government & Aided Schools): Primary with Upper Primary
+MDM3,Schools Providing Mid-Day Meal (Government & Aided Schools): Primary with upper Primary Sec/H.Sec
+MDM4,Schools Providing Mid-Day Meal (Government & Aided Schools): Upper Primary Only
+MDM5,Schools Providing Mid-Day Meal (Government & Aided Schools): Upper Primary with Sec./H.Sec
+MDM6,Schools Providing Mid-Day Meal (Government & Aided Schools): Primary with upper Primary Sec
+MDM7,Schools Providing Mid-Day Meal (Government & Aided Schools): Upper Primary with  Sec.
+MDMTOT,Schools Providing Mid-Day Meal (Government & Aided Schools): Total
+KIT1,Schools with Kitchen-Shed (Government & Aided Schools)*: Primary Only
+KIT2,Schools with Kitchen-Shed (Government & Aided Schools)*: Primary with Upper Primary
+KIT3,Schools with Kitchen-Shed (Government & Aided Schools)*: Primary with upper Primary Sec/H.Sec
+KIT4,Schools with Kitchen-Shed (Government & Aided Schools)*: Upper Primary Only
+KIT5,Schools with Kitchen-Shed (Government & Aided Schools)*: Upper Primary with Sec./H.Sec
+KIT6,Schools with Kitchen-Shed (Government & Aided Schools)*: Primary with upper Primary Sec
+KIT7,Schools with Kitchen-Shed (Government & Aided Schools)*: Upper Primary with  Sec.
+KITTOT,Schools with Kitchen-Shed (Government & Aided Schools)*: Total
+KITS1,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Primary Only
+KITS2,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Primary with Upper Primary
+KITS3,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Primary with upper Primary Sec/H.Sec
+KITS4,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Upper Primary Only
+KITS5,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Upper Primary with Sec./H.Sec
+KITS6,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Primary with upper Primary Sec
+KITS7,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Upper Primary with  Sec.
+KITSTOT,Schools where Mid-Day Meal is Provided and Prepared in School Premises (Government & Aided Schools): Total
+ENR501,Schools with Enrolment <= 50: Primary Only
+ENR502,Schools with Enrolment <= 50: Primary with Upper Primary
+ENR503,Schools with Enrolment <= 50: Primary with upper Primary Sec/H.Sec
+ENR504,Schools with Enrolment <= 50: Upper Primary Only
+ENR505,Schools with Enrolment <= 50: Upper Primary with Sec./H.Sec
+ENR506,Schools with Enrolment <= 50: Primary with upper Primary Sec
+ENR507,Schools with Enrolment <= 50: Upper Primary with  Sec.
+ENR50TOT,Schools with Enrolment <= 50: Total
+SMC1,Schools Constituted School Management Committee(Government & Aided Schools): Primary Only
+SMC2,Schools Constituted School Management Committee(Government & Aided Schools): Primary with Upper Primary
+SMC3,Schools Constituted School Management Committee(Government & Aided Schools): Primary with upper Primary Sec/H.Sec
+SMC4,Schools Constituted School Management Committee(Government & Aided Schools): Upper Primary Only
+SMC5,Schools Constituted School Management Committee(Government & Aided Schools): Upper Primary with Sec./H.Sec
+SMC6,Schools Constituted School Management Committee(Government & Aided Schools): Primary with upper Primary Sec
+SMC7,Schools Constituted School Management Committee(Government & Aided Schools): Upper Primary with  Sec.
+SMCTOT,Schools Constituted School Management Committee(Government & Aided Schools): Total
+CLS1,Number of Classrooms by School Category: Primary Only
+CLS2,Number of Classrooms by School Category: Primary with Upper Primary
+CLS3,Number of Classrooms by School Category: Primary with upper Primary Sec/H.Sec
+CLS4,Number of Classrooms by School Category: Upper Primary Only
+CLS5,Number of Classrooms by School Category: Upper Primary with Sec./H.Sec
+CLS6,Number of Classrooms by School Category: Primary with upper Primary Sec
+CLS7,Number of Classrooms by School Category: Upper Primary with  Sec.
+CLSTOT,Number of Classrooms by School Category: Total
+TCH1,Teachers by School Category: Primary Only
+TCH2,Teachers by School Category: Primary with Upper Primary
+TCH3,Teachers by School Category: Primary with upper Primary Sec/H.Sec
+TCH4,Teachers by School Category: Upper Primary Only
+TCH5,Teachers by School Category: Upper Primary with Sec./H.Sec
+TCH6,Teachers by School Category: Primary with upper Primary Sec
+TCH7,Teachers by School Category: Upper Primary with  Sec.
+TCHTOT,Teachers by School Category: Total
+TCHF1,Teachers by School Category - Female: Primary Only
+TCHF2,Teachers by School Category - Female: Primary with Upper Primary
+TCHF3,Teachers by School Category - Female: Primary with upper Primary Sec/H.Sec
+TCHF4,Teachers by School Category - Female: Upper Primary Only
+TCHF5,Teachers by School Category - Female: Upper Primary with Sec./H.Sec
+TCHF6,Teachers by School Category - Female: Primary with upper Primary Sec
+TCHF7,Teachers by School Category - Female: Upper Primary with  Sec.
+TCHF9,Teachers by School Category - Female: No Response
+TCHFTOT,Teachers by School Category - Female: Total
+TCHM1,Teachers by School Category - Male: Primary Only
+TCHM2,Teachers by School Category - Male: Primary with Upper Primary
+TCHM3,Teachers by School Category - Male: Primary with upper Primary Sec/H.Sec
+TCHM4,Teachers by School Category - Male: Upper Primary Only
+TCHM5,Teachers by School Category - Male: Upper Primary with Sec./H.Sec
+TCHM6,Teachers by School Category - Male: Primary with upper Primary Sec
+TCHM7,Teachers by School Category - Male: Upper Primary with  Sec.
+ENRG1,Enrolment by School Category- Girls : Primary Only
+ENRG2,Enrolment by School Category- Girls : Primary with Upper Primary
+ENRG3,Enrolment by School Category- Girls : Primary with upper Primary Sec/H.Sec
+ENRG4,Enrolment by School Category- Girls : Upper Primary Only
+ENRG5,Enrolment by School Category- Girls : Upper Primary with Sec./H.Sec
+ENRG6,Enrolment by School Category- Girls : Primary with upper Primary Sec
+ENRG7,Enrolment by School Category- Girls : Upper Primary with  Sec.
+ENRGTOT,Enrolment by School Category- Girls : Total
+PREP,Schools with attached Pre-primary Section (Other than Anganwadi): Total Schools
+PRESTD,Schools with attached Pre-primary Section (Other than Anganwadi): Total Students
+PPFTCH,Professionally Qualified Teachers: Private: Teachers with Professional Qualification : Female 
+PPMTCH,Professionally Qualified Teachers: Private: Teachers with Professional Qualification : Male 
+PMTCH,Professionally Qualified Teachers: Private: Total  Teachers: Male 
+PFTCH,Professionally Qualified Teachers: Private: Total  Teachers: Female 
+PGRMTCH,Professionally Qualified Teachers: Government: Regular Teachers with Professional Qualification : Male 
+PGRFTCH,Professionally Qualified Teachers: Government: Regular Teachers with Professional Qualification : Female 
+GRMTCH,Professionally Qualified Teachers: Government: Total Regular Teachers: Male 
+GRFTCH,Professionally Qualified Teachers: Government: Total Regular Teachers: Female 
+PGCMTCH,Professionally Qualified Teachers: Government: Contractual Teachers with Professional Qualification : Male 
+PGCFTCH,Professionally Qualified Teachers: Government: Contractual  Teachers with Professional Qualification : Female 
+PCMTCH,Professionally Qualified Teachers: Government: Total Contractual  Teachers: Male 
+PCFTCH,Professionally Qualified Teachers: Government: Total Contractual  Teachers: Female 
+TCHSCM1,SC Teachers by School Category - Male: Primary Only
+TCHSCM2,SC Teachers by School Category - Male: Primary with Upper Primary
+TCHSCM3,SC Teachers by School Category - Male: Primary with upper Primary Sec/H.Sec
+TCHSCM4,SC Teachers by School Category - Male: Upper Primary Only
+TCHSCM5,SC Teachers by School Category - Male: Upper Primary with Sec./H.Sec
+TCHSCM6,SC Teachers by School Category - Male: Primary with upper Primary Sec
+TCHSCM7,SC Teachers by School Category - Male: Upper Primary with  Sec.
+TCHSCF1,SC Teachers by School Category - Female: Primary Only
+TCHSCF2,SC Teachers by School Category - Female: Primary with Upper Primary
+TCHSCF3,SC Teachers by School Category - Female: Primary with upper Primary Sec/H.Sec
+TCHSCF4,SC Teachers by School Category - Female: Upper Primary Only
+TCHSCF5,SC Teachers by School Category - Female: Upper Primary with Sec./H.Sec
+TCHSCF6,SC Teachers by School Category - Female: Primary with upper Primary Sec
+TCHSCF7,SC Teachers by School Category - Female: Upper Primary with  Sec.
+TCHSTM1,ST Teachers by School Category - Male: Primary Only
+TCHSTM2,ST Teachers by School Category - Male: Primary with Upper Primary
+TCHSTM3,ST Teachers by School Category - Male: Primary with upper Primary Sec/H.Sec
+TCHSTM4,ST Teachers by School Category - Male: Upper Primary Only
+TCHSTM5,ST Teachers by School Category - Male: Upper Primary with Sec./H.Sec
+TCHSTM6,ST Teachers by School Category - Male: Primary with upper Primary Sec
+TCHSTM7,ST Teachers by School Category - Male: Upper Primary with  Sec.
+TCHSTF1,ST Teachers by School Category - Female: Primary Only
+TCHSTF2,ST Teachers by School Category - Female: Primary with Upper Primary
+TCHSTF3,ST Teachers by School Category - Female: Primary with upper Primary Sec/H.Sec
+TCHSTF4,ST Teachers by School Category - Female: Upper Primary Only
+TCHSTF5,ST Teachers by School Category - Female: Upper Primary with Sec./H.Sec
+TCHSTF6,ST Teachers by School Category - Female: Primary with upper Primary Sec
+TCHSTF7,ST Teachers by School Category - Female: Upper Primary with  Sec.
+TCHOBCM1,OBC Teachers by School Category - Male: Primary Only
+TCHOBCM2,OBC Teachers by School Category - Male: Primary with Upper Primary
+TCHOBCM3,OBC Teachers by School Category - Male: Primary with upper Primary Sec/H.Sec
+TCHOBCM4,OBC Teachers by School Category - Male: Upper Primary Only
+TCHOBCM5,OBC Teachers by School Category - Male: Upper Primary with Sec./H.Sec
+TCHOBCM6,OBC Teachers by School Category - Male: Primary with upper Primary Sec
+TCHOBCM7,OBC Teachers by School Category - Male: Upper Primary with  Sec.
+TCHOBCF1,OBC Teachers by School Category - Female: Primary Only
+TCHOBCF2,OBC Teachers by School Category - Female: Primary with Upper Primary
+TCHOBCF3,OBC Teachers by School Category - Female: Primary with upper Primary Sec/H.Sec
+TCHOBCF4,OBC Teachers by School Category - Female: Upper Primary Only
+TCHOBCF5,OBC Teachers by School Category - Female: Upper Primary with Sec./H.Sec
+TCHOBCF6,OBC Teachers by School Category - Female: Primary with upper Primary Sec
+TCHOBCF7,OBC Teachers by School Category - Female: Upper Primary with  Sec.
+TCH_TRNRM1,Teachers Received in-service Training - Male: Primary Only
+TCH_TRNRM2,Teachers Received in-service Training - Male: Primary with Upper Primary
+TCH_TRNRM3,Teachers Received in-service Training - Male: Primary with upper Primary Sec/H.Sec
+TCH_TRNRM4,Teachers Received in-service Training - Male: Upper Primary Only
+TCH_TRNRM5,Teachers Received in-service Training - Male: Upper Primary with Sec./H.Sec
+TCH_TRNRM6,Teachers Received in-service Training - Male: Primary with upper Primary Sec
+TCH_TRNRM7,Teachers Received in-service Training - Male: Upper Primary with  Sec.
+TCH_TRNRF1,Teachers Received in-service Training - Female: Primary Only
+TCH_TRNRF2,Teachers Received in-service Training - Female: Primary with Upper Primary
+TCH_TRNRF3,Teachers Received in-service Training - Female: Primary with upper Primary Sec/H.Sec
+TCH_TRNRF4,Teachers Received in-service Training - Female: Upper Primary Only
+TCH_TRNRF5,Teachers Received in-service Training - Female: Upper Primary with Sec./H.Sec
+TCH_TRNRF6,Teachers Received in-service Training - Female: Primary with upper Primary Sec
+TCH_TRNRF7,Teachers Received in-service Training - Female: Upper Primary with  Sec.
+C1_B,Enrolment By Grade: Boys - Grade 1
+C2_B,Enrolment By Grade: Boys - Grade 2
+C3_B,Enrolment By Grade: Boys - Grade 3
+C4_B,Enrolment By Grade: Boys - Grade 4
+C5_B,Enrolment By Grade: Boys - Grade 5
+C6_B,Enrolment By Grade: Boys - Grade 6
+C7_B,Enrolment By Grade: Boys - Grade 7
+C8_B,Enrolment By Grade: Boys - Grade 8
+C9_B,Enrolment By Grade: Boys - Grade 9
+C1_G,Enrolment By Grade: Girls - Grade 1
+C2_G,Enrolment By Grade: Girls - Grade 2
+C3_G,Enrolment By Grade: Girls - Grade 3
+C4_G,Enrolment By Grade: Girls - Grade 4
+C5_G,Enrolment By Grade: Girls - Grade 5
+C6_G,Enrolment By Grade: Girls - Grade 6
+C7_G,Enrolment By Grade: Girls - Grade 7
+C8_G,Enrolment By Grade: Girls - Grade 8
+C9_G,Enrolment By Grade: Girls - Grade 9
+C15A,Enrolment by level: Primary - Primary
+C68A,Enrolment by level: Upper Primary - Upper Primary
+C1_BD,Children with Special Needs: Boys - Grade 1
+C2_BD,Children with Special Needs: Boys - Grade 2
+C3_BD,Children with Special Needs: Boys - Grade 3
+C4_BD,Children with Special Needs: Boys - Grade 4
+C5_BD,Children with Special Needs: Boys - Grade 5
+C6_BD,Children with Special Needs: Boys - Grade 6
+C7_BD,Children with Special Needs: Boys - Grade 7
+C8_BD,Children with Special Needs: Boys - Grade 8
+C1_GD,Children with Special Needs: Girls - Grade 1
+C2_GD,Children with Special Needs: Girls - Grade 2
+C3_GD,Children with Special Needs: Girls - Grade 3
+C4_GD,Children with Special Needs: Girls - Grade 4
+C5_GD,Children with Special Needs: Girls - Grade 5
+C6_GD,Children with Special Needs: Girls - Grade 6
+C7_GD,Children with Special Needs: Girls - Grade 7
+C8_GD,Children with Special Needs: Girls - Grade 8
+C1_BR,Repeaters By Grade: Boys - Grade 1
+C2_BR,Repeaters By Grade: Boys - Grade 2
+C3_BR,Repeaters By Grade: Boys - Grade 3
+C4_BR,Repeaters By Grade: Boys - Grade 4
+C5_BR,Repeaters By Grade: Boys - Grade 5
+C6_BR,Repeaters By Grade: Boys - Grade 6
+C7_BR,Repeaters By Grade: Boys - Grade 7
+C8_BR,Repeaters By Grade: Boys - Grade 8
+C9_BR,Repeaters By Grade: Boys - Grade 9
+C1_GR,Repeaters By Grade: Girls - Grade 1
+C2_GR,Repeaters By Grade: Girls - Grade 2
+C3_GR,Repeaters By Grade: Girls - Grade 3
+C4_GR,Repeaters By Grade: Girls - Grade 4
+C5_GR,Repeaters By Grade: Girls - Grade 5
+C6_GR,Repeaters By Grade: Girls - Grade 6
+C7_GR,Repeaters By Grade: Girls - Grade 7
+C8_GR,Repeaters By Grade: Girls - Grade 8
+C9_GR,Repeaters By Grade: Girls - Grade 9
+SCPTOT,SC Enrolment: Primary - Total
+SCPTOT_G,SC Enrolment: Primary - Girls
+SCUTOT,SC Enrolment: Upper Primary - Total
+SCUTOT_G,SC Enrolment: Upper Primary - Girls
+STPTOT,ST Enrolment: Primary - Total
+STPTOT_G,ST Enrolment: Primary - Girls
+STUTOT,ST Enrolment: Upper Primary - Total
+STUTOT_G,ST Enrolment: Upper Primary - Girls
+OBPTOT,OBC Enrolment: Primary - Total
+OBUTOT,OBC Enrolment: Primary - Girls
+OBPTOT_G,OBC Enrolment: Upper Primary - Total
+OBUTOT_G,OBC Enrolment: Upper Primary - Girls
+MUPTOT,Muslim Enrolment: Primary - Total
+MUUTOT,Muslim Enrolment: Primary - Girls
+MUPTOT_G,Muslim Enrolment: Upper Primary - Total
+MUUTOT_G,Muslim Enrolment: Upper Primary - Girls
+BLC1,CWSN Enrolment by Nature of Disability: Grade 1 - Blind
+LVC1,CWSN Enrolment by Nature of Disability: Grade 1 - Low vision
+HEC1,CWSN Enrolment by Nature of Disability: Grade 1 - Hearing Impairment
+SPC1,CWSN Enrolment by Nature of Disability: Grade 1 - Speech Impairment
+LOC1,CWSN Enrolment by Nature of Disability: Grade 1 - Locomotor Impairment
+MEC1,CWSN Enrolment by Nature of Disability: Grade 1 - Mental Retardation
+LEC1,CWSN Enrolment by Nature of Disability: Grade 1 - Learning Disability
+CPC1,CWSN Enrolment by Nature of Disability: Grade 1 - Cerebral Palsy
+AUC1,CWSN Enrolment by Nature of Disability: Grade 1 - Autism
+MUC1,CWSN Enrolment by Nature of Disability: Grade 1 - Multiple
+BLC2,CWSN Enrolment by Nature of Disability: Grade 2 - Blind
+LVC2,CWSN Enrolment by Nature of Disability: Grade 2 - Low vision
+HEC2,CWSN Enrolment by Nature of Disability: Grade 2 - Hearing Impairment
+SPC2,CWSN Enrolment by Nature of Disability: Grade 2 - Speech Impairment
+LOC2,CWSN Enrolment by Nature of Disability: Grade 2 - Locomotor Impairment
+MEC2,CWSN Enrolment by Nature of Disability: Grade 2 - Mental Retardation
+LEC2,CWSN Enrolment by Nature of Disability: Grade 2 - Learning Disability
+CPC2,CWSN Enrolment by Nature of Disability: Grade 2 - Cerebral Palsy
+AUC2,CWSN Enrolment by Nature of Disability: Grade 2 - Autism
+MUC2,CWSN Enrolment by Nature of Disability: Grade 2 - Multiple
+BLC3,CWSN Enrolment by Nature of Disability: Grade 3 - Blind
+LVC3,CWSN Enrolment by Nature of Disability: Grade 3 - Low vision
+HEC3,CWSN Enrolment by Nature of Disability: Grade 3 - Hearing Impairment
+SPC3,CWSN Enrolment by Nature of Disability: Grade 3 - Speech Impairment
+LOC3,CWSN Enrolment by Nature of Disability: Grade 3 - Locomotor Impairment
+MEC3,CWSN Enrolment by Nature of Disability: Grade 3 - Mental Retardation
+LEC3,CWSN Enrolment by Nature of Disability: Grade 3 - Learning Disability
+CPC3,CWSN Enrolment by Nature of Disability: Grade 3 - Cerebral Palsy
+AUC3,CWSN Enrolment by Nature of Disability: Grade 3 - Autism
+MUC3,CWSN Enrolment by Nature of Disability: Grade 3 - Multiple
+BLC4,CWSN Enrolment by Nature of Disability: Grade 4 - Blind
+LVC4,CWSN Enrolment by Nature of Disability: Grade 4 - Low vision
+HEC4,CWSN Enrolment by Nature of Disability: Grade 4 - Hearing Impairment
+SPC4,CWSN Enrolment by Nature of Disability: Grade 4 - Speech Impairment
+LOC4,CWSN Enrolment by Nature of Disability: Grade 4 - Locomotor Impairment
+MEC4,CWSN Enrolment by Nature of Disability: Grade 4 - Mental Retardation
+LEC4,CWSN Enrolment by Nature of Disability: Grade 4 - Learning Disability
+CPC4,CWSN Enrolment by Nature of Disability: Grade 4 - Cerebral Palsy
+AUC4,CWSN Enrolment by Nature of Disability: Grade 4 - Autism
+MUC4,CWSN Enrolment by Nature of Disability: Grade 4 - Multiple
+BLC5,CWSN Enrolment by Nature of Disability: Grade 5 - Blind
+LVC5,CWSN Enrolment by Nature of Disability: Grade 5 - Low vision
+HEC5,CWSN Enrolment by Nature of Disability: Grade 5 - Hearing Impairment
+SPC5,CWSN Enrolment by Nature of Disability: Grade 5 - Speech Impairment
+LOC5,CWSN Enrolment by Nature of Disability: Grade 5 - Locomotor Impairment
+MEC5,CWSN Enrolment by Nature of Disability: Grade 5 - Mental Retardation
+LEC5,CWSN Enrolment by Nature of Disability: Grade 5 - Learning Disability
+CPC5,CWSN Enrolment by Nature of Disability: Grade 5 - Cerebral Palsy
+AUC5,CWSN Enrolment by Nature of Disability: Grade 5 - Autism
+MUC5,CWSN Enrolment by Nature of Disability: Grade 5 - Multiple
+BLC6,CWSN Enrolment by Nature of Disability: Grade 6 - Blind
+LVC6,CWSN Enrolment by Nature of Disability: Grade 6 - Low vision
+HEC6,CWSN Enrolment by Nature of Disability: Grade 6 - Hearing Impairment
+SPC6,CWSN Enrolment by Nature of Disability: Grade 6 - Speech Impairment
+LOC6,CWSN Enrolment by Nature of Disability: Grade 6 - Locomotor Impairment
+MEC6,CWSN Enrolment by Nature of Disability: Grade 6 - Mental Retardation
+LEC6,CWSN Enrolment by Nature of Disability: Grade 6 - Learning Disability
+CPC6,CWSN Enrolment by Nature of Disability: Grade 6 - Cerebral Palsy
+AUC6,CWSN Enrolment by Nature of Disability: Grade 6 - Autism
+MUC6,CWSN Enrolment by Nature of Disability: Grade 6 - Multiple
+BLC7,CWSN Enrolment by Nature of Disability: Grade 7 - Blind
+LVC7,CWSN Enrolment by Nature of Disability: Grade 7 - Low vision
+HEC7,CWSN Enrolment by Nature of Disability: Grade 7 - Hearing Impairment
+SPC7,CWSN Enrolment by Nature of Disability: Grade 7 - Speech Impairment
+LOC7,CWSN Enrolment by Nature of Disability: Grade 7 - Locomotor Impairment
+MEC7,CWSN Enrolment by Nature of Disability: Grade 7 - Mental Retardation
+LEC7,CWSN Enrolment by Nature of Disability: Grade 7 - Learning Disability
+CPC7,CWSN Enrolment by Nature of Disability: Grade 7 - Cerebral Palsy
+AUC7,CWSN Enrolment by Nature of Disability: Grade 7 - Autism
+MUC7,CWSN Enrolment by Nature of Disability: Grade 7 - Multiple
+BLC8,CWSN Enrolment by Nature of Disability: Grade 8 - Blind
+LVC8,CWSN Enrolment by Nature of Disability: Grade 8 - Low vision
+HEC8,CWSN Enrolment by Nature of Disability: Grade 8 - Hearing Impairment
+SPC8,CWSN Enrolment by Nature of Disability: Grade 8 - Speech Impairment
+LOC8,CWSN Enrolment by Nature of Disability: Grade 8 - Locomotor Impairment
+MEC8,CWSN Enrolment by Nature of Disability: Grade 8 - Mental Retardation
+LEC8,CWSN Enrolment by Nature of Disability: Grade 8 - Learning Disability
+CPC8,CWSN Enrolment by Nature of Disability: Grade 8 - Cerebral Palsy
+AUC8,CWSN Enrolment by Nature of Disability: Grade 8 - Autism
+MUC8,CWSN Enrolment by Nature of Disability: Grade 8 - Multiple
+TOTCLGD1G,Total Classrooms by Condition: Good Condition - Primary Only
+TOTCLGD2G,Total Classrooms by Condition: Good Condition - Primary with Upper Primary
+TOTCLGD3G,Total Classrooms by Condition: Good Condition - Primary with upper Primary Sec/H.Sec
+TOTCLGD4G,Total Classrooms by Condition: Good Condition - Upper Primary Only
+TOTCLGD5G,Total Classrooms by Condition: Good Condition - Upper Primary with Sec./H.Sec
+TOTCLGD6G,Total Classrooms by Condition: Good Condition - Primary with upper Primary Sec
+TOTCLGD7G,Total Classrooms by Condition: Good Condition - Upper Primary with  Sec.
+TOTCLMI1G,Total Classrooms by Condition: Need Minor Repair - Primary Only
+TOTCLMI2G,Total Classrooms by Condition: Need Minor Repair - Primary with Upper Primary
+TOTCLMI3G,Total Classrooms by Condition: Need Minor Repair - Primary with upper Primary Sec/H.Sec
+TOTCLMI4G,Total Classrooms by Condition: Need Minor Repair - Upper Primary Only
+TOTCLMI5G,Total Classrooms by Condition: Need Minor Repair - Upper Primary with Sec./H.Sec
+TOTCLMI6G,Total Classrooms by Condition: Need Minor Repair - Primary with upper Primary Sec
+TOTCLMI7G,Total Classrooms by Condition: Need Minor Repair - Upper Primary with  Sec.
+TOTCLMJ1G,Total Classrooms by Condition: Need Major Repair - Primary Only
+TOTCLMJ2G,Total Classrooms by Condition: Need Major Repair - Primary with Upper Primary
+TOTCLMJ3G,Total Classrooms by Condition: Need Major Repair - Primary with upper Primary Sec/H.Sec
+TOTCLMJ4G,Total Classrooms by Condition: Need Major Repair - Upper Primary Only
+TOTCLMJ5G,Total Classrooms by Condition: Need Major Repair - Upper Primary with Sec./H.Sec
+TOTCLMJ6G,Total Classrooms by Condition: Need Major Repair - Primary with upper Primary Sec
+TOTCLMJ7G,Total Classrooms by Condition: Need Major Repair - Upper Primary with  Sec.
+TOTCLOT1G,Other Rooms: Primary Only - Primary Only
+TOTCLOT2G,Other Rooms: Primary with Upper Primary - Primary with Upper Primary
+TOTCLOT3G,Other Rooms: Primary with upper Primary Sec/H.Sec - Primary with upper Primary Sec/H.Sec
+TOTCLOT4G,Other Rooms: Upper Primary Only - Upper Primary Only
+TOTCLOT5G,Other Rooms: Upper Primary with Sec./H.Sec - Upper Primary with Sec./H.Sec
+TOTCLOT6G,Other Rooms: Primary with upper Primary Sec - Primary with upper Primary Sec
+TOTCLOT7G,Other Rooms: Upper Primary with  Sec. - Upper Primary with  Sec.
+TCHBS1,Teachers by Educational Qualification: Below Secondary - Primary Only
+TCHBS2,Teachers by Educational Qualification: Below Secondary - Primary with Upper Primary
+TCHBS3,Teachers by Educational Qualification: Below Secondary - Primary with upper Primary Sec/H.Sec
+TCHBS4,Teachers by Educational Qualification: Below Secondary - Upper Primary Only
+TCHBS5,Teachers by Educational Qualification: Below Secondary - Upper Primary with Sec./H.Sec
+TCHBS6,Teachers by Educational Qualification: Below Secondary - Primary with upper Primary Sec
+TCHBS7,Teachers by Educational Qualification: Below Secondary - Upper Primary with  Sec.
+TCHSEC1,Teachers by Educational Qualification:  Secondary - Primary Only
+TCHSEC2,Teachers by Educational Qualification:  Secondary - Primary with Upper Primary
+TCHSEC3,Teachers by Educational Qualification:  Secondary - Primary with upper Primary Sec/H.Sec
+TCHSEC4,Teachers by Educational Qualification:  Secondary - Upper Primary Only
+TCHSEC5,Teachers by Educational Qualification:  Secondary - Upper Primary with Sec./H.Sec
+TCHSEC6,Teachers by Educational Qualification:  Secondary - Primary with upper Primary Sec
+TCHSEC7,Teachers by Educational Qualification:  Secondary - Upper Primary with  Sec.
+TCHHS1,Teachers by Educational Qualification: Higher  Secondary - Primary Only
+TCHHS2,Teachers by Educational Qualification: Higher  Secondary - Primary with Upper Primary
+TCHHS3,Teachers by Educational Qualification: Higher  Secondary - Primary with upper Primary Sec/H.Sec
+TCHHS4,Teachers by Educational Qualification: Higher  Secondary - Upper Primary Only
+TCHHS5,Teachers by Educational Qualification: Higher  Secondary - Upper Primary with Sec./H.Sec
+TCHHS6,Teachers by Educational Qualification: Higher  Secondary - Primary with upper Primary Sec
+TCHHS7,Teachers by Educational Qualification: Higher  Secondary - Upper Primary with  Sec.
+TCHGD1,Teachers by Educational Qualification: Graduate - Primary Only
+TCHGD2,Teachers by Educational Qualification: Graduate - Primary with Upper Primary
+TCHGD3,Teachers by Educational Qualification: Graduate - Primary with upper Primary Sec/H.Sec
+TCHGD4,Teachers by Educational Qualification: Graduate - Upper Primary Only
+TCHGD5,Teachers by Educational Qualification: Graduate - Upper Primary with Sec./H.Sec
+TCHGD6,Teachers by Educational Qualification: Graduate - Primary with upper Primary Sec
+TCHGD7,Teachers by Educational Qualification: Graduate - Upper Primary with  Sec.
+TCHPG1,Teachers by Educational Qualification: Post Graduate - Primary Only
+TCHPG2,Teachers by Educational Qualification: Post Graduate - Primary with Upper Primary
+TCHPG3,Teachers by Educational Qualification: Post Graduate - Primary with upper Primary Sec/H.Sec
+TCHPG4,Teachers by Educational Qualification: Post Graduate - Upper Primary Only
+TCHPG5,Teachers by Educational Qualification: Post Graduate - Upper Primary with Sec./H.Sec
+TCHPG6,Teachers by Educational Qualification: Post Graduate - Primary with upper Primary Sec
+TCHPG7,Teachers by Educational Qualification: Post Graduate - Upper Primary with  Sec.
+TCHMD1,Teachers by Educational Qualification: M phil./ Ph.D - Primary Only
+TCHMD2,Teachers by Educational Qualification: M phil./ Ph.D - Primary with Upper Primary
+TCHMD3,Teachers by Educational Qualification: M phil./ Ph.D - Primary with upper Primary Sec/H.Sec
+TCHMD4,Teachers by Educational Qualification: M phil./ Ph.D - Upper Primary Only
+TCHMD5,Teachers by Educational Qualification: M phil./ Ph.D - Upper Primary with Sec./H.Sec
+TCHMD6,Teachers by Educational Qualification: M phil./ Ph.D - Primary with upper Primary Sec
+TCHMD7,Teachers by Educational Qualification: M phil./ Ph.D - Upper Primary with  Sec.
+TCHPD1,Teachers by Educational Qualification: Post Doctorate - Primary Only
+TCHPD2,Teachers by Educational Qualification: Post Doctorate - Primary with Upper Primary
+TCHPD3,Teachers by Educational Qualification: Post Doctorate - Primary with upper Primary Sec/H.Sec
+TCHPD4,Teachers by Educational Qualification: Post Doctorate - Upper Primary Only
+TCHPD5,Teachers by Educational Qualification: Post Doctorate - Upper Primary with Sec./H.Sec
+TCHPD6,Teachers by Educational Qualification: Post Doctorate - Primary with upper Primary Sec
+TCHPD7,Teachers by Educational Qualification: Post Doctorate - Upper Primary with  Sec.
+TCHNR1,Teachers by Educational Qualification: No Response in Academic Qualification - Primary Only
+TCHNR2,Teachers by Educational Qualification: No Response in Academic Qualification - Primary with Upper Primary
+TCHNR3,Teachers by Educational Qualification: No Response in Academic Qualification - Primary with upper Primary Sec/H.Sec
+TCHNR4,Teachers by Educational Qualification: No Response in Academic Qualification - Upper Primary Only
+TCHNR5,Teachers by Educational Qualification: No Response in Academic Qualification - Upper Primary with Sec./H.Sec
+TCHNR6,Teachers by Educational Qualification: No Response in Academic Qualification - Primary with upper Primary Sec
+TCHNR7,Teachers by Educational Qualification: No Response in Academic Qualification - Upper Primary with  Sec.
+TCHCON1,Contractual Teachers by Qualification: Below Secondary - Below Secondary
+TCHCON2,Contractual Teachers by Qualification: Below Secondary -  Secondary
+TCHCON3,Contractual Teachers by Qualification: Below Secondary -  Higher Secondary
+TCHCON4,Contractual Teachers by Qualification: Below Secondary - Graduate
+TCHCON5,Contractual Teachers by Qualification: Below Secondary - Post Graduate
+TCHCON67,Contractual Teachers by Qualification: Below Secondary - M Phil./ Ph.D.
+TCHCON8,Contractual Teachers by Qualification: Below Secondary - Post Doctorate
+TCHCON9,Contractual Teachers by Qualification:  - No Response
+TCHM1,Regular Teachers by Gender: Male - Primary Only
+TCHM2,Regular Teachers by Gender: Male - Primary with Upper Primary
+TCHM3,Regular Teachers by Gender: Male - Primary with upper Primary Sec/H.Sec
+TCHM4,Regular Teachers by Gender: Male - Upper Primary Only
+TCHM5,Regular Teachers by Gender: Male - Upper Primary with Sec./H.Sec
+TCHM6,Regular Teachers by Gender: Male - Primary with upper Primary Sec
+TCHM7,Regular Teachers by Gender: Male - Upper Primary with  Sec.
+TCHF1,Regular Teachers by Gender: Female - Primary Only
+TCHF2,Regular Teachers by Gender: Female - Primary with Upper Primary
+TCHF3,Regular Teachers by Gender: Female - Primary with upper Primary Sec/H.Sec
+TCHF4,Regular Teachers by Gender: Female - Upper Primary Only
+TCHF5,Regular Teachers by Gender: Female - Upper Primary with Sec./H.Sec
+TCHF6,Regular Teachers by Gender: Female - Primary with upper Primary Sec
+TCHF7,Regular Teachers by Gender: Female - Upper Primary with  Sec.
+TCHN1,Regular Teachers by Gender: No Response - Primary Only
+TCHN2,Regular Teachers by Gender: No Response - Primary with Upper Primary
+TCHN3,Regular Teachers by Gender: No Response - Primary with upper Primary Sec/H.Sec
+TCHN4,Regular Teachers by Gender: No Response - Upper Primary Only
+TCHN5,Regular Teachers by Gender: No Response - Upper Primary with Sec./H.Sec
+TCHN6,Regular Teachers by Gender: No Response - Primary with upper Primary Sec
+TCHN7,Regular Teachers by Gender: No Response - Upper Primary with  Sec.
+TCHCM1,Conractual  Teachers by Gender: Male - Primary Only
+TCHCM2,Conractual  Teachers by Gender: Male - Primary with Upper Primary
+TCHCM3,Conractual  Teachers by Gender: Male - Primary with upper Primary Sec/H.Sec
+TCHCM4,Conractual  Teachers by Gender: Male - Upper Primary Only
+TCHCM5,Conractual  Teachers by Gender: Male - Upper Primary with Sec./H.Sec
+TCHCM6,Conractual  Teachers by Gender: Male - Primary with upper Primary Sec
+TCHCM7,Conractual  Teachers by Gender: Male - Upper Primary with  Sec.
+TCHCF1,Conractual  Teachers by Gender: Female - Primary Only
+TCHCF2,Conractual  Teachers by Gender: Female - Primary with Upper Primary
+TCHCF3,Conractual  Teachers by Gender: Female - Primary with upper Primary Sec/H.Sec
+TCHCF4,Conractual  Teachers by Gender: Female - Upper Primary Only
+TCHCF5,Conractual  Teachers by Gender: Female - Upper Primary with Sec./H.Sec
+TCHCF6,Conractual  Teachers by Gender: Female - Primary with upper Primary Sec
+TCHCF7,Conractual  Teachers by Gender: Female - Upper Primary with  Sec.
+TCHCN1,Conractual  Teachers by Gender: No Response - Primary Only
+TCHCN2,Conractual  Teachers by Gender: No Response - Primary with Upper Primary
+TCHCN3,Conractual  Teachers by Gender: No Response - Primary with upper Primary Sec/H.Sec
+TCHCN4,Conractual  Teachers by Gender: No Response - Upper Primary Only
+TCHCN5,Conractual  Teachers by Gender: No Response - Upper Primary with Sec./H.Sec
+TCHCN6,Conractual  Teachers by Gender: No Response - Primary with upper Primary Sec
+TCHCN7,Conractual  Teachers by Gender: No Response - Upper Primary with  Sec.
+TLM_R1,Schools Received TLM Grant: Primary Only - Primary Only
+TLM_R2,Schools Received TLM Grant: Primary with Upper Primary - Primary with Upper Primary
+TLM_R3,Schools Received TLM Grant: Primary with upper Primary Sec/H.Sec - Primary with upper Primary Sec/H.Sec
+TLM_R4,Schools Received TLM Grant: Upper Primary Only - Upper Primary Only
+TLM_R5,Schools Received TLM Grant: Upper Primary with Sec./H.Sec - Upper Primary with Sec./H.Sec
+TLM_R6,Schools Received TLM Grant: Primary with upper Primary Sec - Primary with upper Primary Sec
+TLM_R7,Schools Received TLM Grant: Upper Primary with  Sec. - Upper Primary with  Sec.
+CONTI_R1,Schools Received School Development Grant: Primary Only - Primary Only
+CONTI_R2,Schools Received School Development Grant: Primary with Upper Primary - Primary with Upper Primary
+CONTI_R3,Schools Received School Development Grant: Primary with upper Primary Sec/H.Sec - Primary with upper Primary Sec/H.Sec
+CONTI_R4,Schools Received School Development Grant: Upper Primary Only - Upper Primary Only
+CONTI_R5,Schools Received School Development Grant: Upper Primary with Sec./H.Sec - Upper Primary with Sec./H.Sec
+CONTI_R6,Schools Received School Development Grant: Primary with upper Primary Sec - Primary with upper Primary Sec
+CONTI_R7,Schools Received School Development Grant: Upper Primary with  Sec. - Upper Primary with  Sec.
+TLME,Grants: TLM - Expended
+TLMR,Grants: TLM - Received
+CONTIE,Grants: School Development - Expended
+CONTIR,Grants: School Development - Received
+PIDAY30,Instructional Days: Primary - Sum of instructional days
+PIDAYSCH,Instructional Days: Primary - number of schools given instructional days
+UIDAY35,Instructional Days: Upper Primary - Sum of instructional days
+UIDAYSCH,Instructional Days: Upper Primary - number of schools given instructional days
+M1,Medium of Instruction: Mediums of instructions - Medium 1
+M2,Medium of Instruction: Mediums of instructions - Medium 2
+M3,Medium of Instruction: Mediums of instructions - Medium 3
+M4,Medium of Instruction: Mediums of instructions - Medium 4
+M5,Medium of Instruction: Mediums of instructions - Medium 5
+ENRE11,Medium of Instruction: Enrolment in Medium 1 - Primary Only
+ENRE12,Medium of Instruction: Enrolment in Medium 1 - Primary with Upper Primary
+ENRE13,Medium of Instruction: Enrolment in Medium 1 - Primary with upper Primary Sec/H.Sec
+ENRE14,Medium of Instruction: Enrolment in Medium 1 - Upper Primary Only
+ENRE15,Medium of Instruction: Enrolment in Medium 1 - Upper Primary with Sec./H.Sec
+ENRE16,Medium of Instruction: Enrolment in Medium 1 - Primary with upper Primary Sec
+ENRE17,Medium of Instruction: Enrolment in Medium 1 - Upper Primary with  Sec.
+ENRE21,Medium of Instruction: Enrolment in Medium 2 - Primary Only
+ENRE22,Medium of Instruction: Enrolment in Medium 2 - Primary with Upper Primary
+ENRE23,Medium of Instruction: Enrolment in Medium 2 - Primary with upper Primary Sec/H.Sec
+ENRE24,Medium of Instruction: Enrolment in Medium 2 - Upper Primary Only
+ENRE25,Medium of Instruction: Enrolment in Medium 2 - Upper Primary with Sec./H.Sec
+ENRE26,Medium of Instruction: Enrolment in Medium 2 - Primary with upper Primary Sec
+ENRE27,Medium of Instruction: Enrolment in Medium 2 - Upper Primary with  Sec.
+ENRE31,Medium of Instruction: Enrolment in Medium 3 - Primary Only
+ENRE32,Medium of Instruction: Enrolment in Medium 3 - Primary with Upper Primary
+ENRE33,Medium of Instruction: Enrolment in Medium 3 - Primary with upper Primary Sec/H.Sec
+ENRE34,Medium of Instruction: Enrolment in Medium 3 - Upper Primary Only
+ENRE35,Medium of Instruction: Enrolment in Medium 3 - Upper Primary with Sec./H.Sec
+ENRE36,Medium of Instruction: Enrolment in Medium 3 - Primary with upper Primary Sec
+ENRE37,Medium of Instruction: Enrolment in Medium 3 - Upper Primary with  Sec.
+ENRE41,Medium of Instruction: Enrolment in Medium 4 - Primary Only
+ENRE42,Medium of Instruction: Enrolment in Medium 4 - Primary with Upper Primary
+ENRE43,Medium of Instruction: Enrolment in Medium 4 - Primary with upper Primary Sec/H.Sec
+ENRE44,Medium of Instruction: Enrolment in Medium 4 - Upper Primary Only
+ENRE45,Medium of Instruction: Enrolment in Medium 4 - Upper Primary with Sec./H.Sec
+ENRE46,Medium of Instruction: Enrolment in Medium 4 - Primary with upper Primary Sec
+ENRE47,Medium of Instruction: Enrolment in Medium 4 - Upper Primary with  Sec.
+ENRE51,Medium of Instruction: Enrolment in Medium 5 - Primary Only
+ENRE52,Medium of Instruction: Enrolment in Medium 5 - Primary with Upper Primary
+ENRE53,Medium of Instruction: Enrolment in Medium 5 - Primary with upper Primary Sec/H.Sec
+ENRE54,Medium of Instruction: Enrolment in Medium 5 - Upper Primary Only
+ENRE55,Medium of Instruction: Enrolment in Medium 5 - Upper Primary with Sec./H.Sec
+ENRE56,Medium of Instruction: Enrolment in Medium 5 - Primary with upper Primary Sec
+ENRE57,Medium of Instruction: Enrolment in Medium 5 - Upper Primary with  Sec.
+PTXT_ALL,Incentives Primary: TextBook - All 
+PTXT_SC,Incentives Primary: TextBook - SC
+PTXT_ST,Incentives Primary: TextBook - ST
+PUNI_ALL,Incentives Primary: Uniform - All 
+PUNI_SC,Incentives Primary: Uniform - SC
+PUNI_ST,Incentives Primary: Uniform - ST
+UTXT_ALL,Incentives Upper Primary: TextBook - All 
+UTXT_SC,Incentives Upper Primary: TextBook - SC
+UTXT_ST,Incentives Upper Primary: TextBook - ST
+UUNI_ALL,Incentives Upper Primary: Uniform - All 
+UUNI_SC,Incentives Upper Primary: Uniform - SC
+UUNI_ST,Incentives Upper Primary: Uniform - ST
+TCH_5556M,Teachers by Age: Between 55-56 - Male
+TCH_5556F,Teachers by Age: Between 55-56 - Female
+TCH_5556T,Teachers by Age: Between 55-56 - Total
+TCH_5758M,Teachers by Age: Between 57-58 - Male
+TCH_5758F,Teachers by Age: Between 57-58 - Female
+TCH_5758T,Teachers by Age: Between 57-58 - Total
+TCH_5960M,Teachers by Age: Between 59-60 - Male
+TCH_5960F,Teachers by Age: Between 59-60 - Female
+TCH_5960T,Teachers by Age: Between 59-60 - Total
+PPTR30,Schools with PTR: Above 30 - Primary Level
+UPTR35,Schools with PTR: Above 35 - Upper Primary
+PSCR30,Schools with SCR: Above 30 - Primary Level
+USCR35,Schools with SCR: Above 35 - Upper Primary
+NOTCH_ASS,Non-Teaching Assignment: Total Days - Total Days
+TCHINV,Non-Teaching Assignment: Total Teachers involved - Total Teachers involved
+TOTCLS1G,Total Classrooms: Primary Only - Primary Only
+TOTCLS2G,Total Classrooms: Primary with Upper Primary - Primary with Upper Primary
+TOTCLS3G,Total Classrooms: Primary with upper Primary Sec/H.Sec - Primary with upper Primary Sec/H.Sec
+TOTCLS4G,Total Classrooms: Upper Primary Only - Upper Primary Only
+TOTCLS5G,Total Classrooms: Upper Primary with Sec./H.Sec - Upper Primary with Sec./H.Sec
+TOTCLS6G,Total Classrooms: Primary with upper Primary Sec - Primary with upper Primary Sec
+TOTCLS7G,Total Classrooms: Upper Primary with  Sec. - Upper Primary with  Sec.
