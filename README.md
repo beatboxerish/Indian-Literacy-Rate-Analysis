@@ -66,8 +66,7 @@ As there was no model to use for prediction, the answers to my questions were as
 
 A blog post has bee created on Medium here : https://medium.com/@ishannangia/a-statistical-look-at-the-indian-literacy-rate-80a0e541ba7d
 
-
-
+	
 
 
 
