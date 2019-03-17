@@ -28,8 +28,8 @@ https://medium.com/@ishannangia/a-statistical-look-at-the-indian-literacy-rate-8
 1. data : This folder contains the datasets.
 2. Education in India.ipynb : This is the jupyter notebook where all the analysis has been done. 
 
-'Note: You can find more information about the dataset at
-https://www.kaggle.com/rajanand/education-in-india'
+*Note: You can find more information about the dataset at
+https://www.kaggle.com/rajanand/education-in-india*
 
 ## Process : 
 
