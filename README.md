@@ -16,10 +16,6 @@ that data, I tried to answer these 3 questions in depth:
 rate? 
 * Which class is the dropout rate maximum in ?
 
-The last point above is not exactly a question, but I figure that it can be used to predict the literacy rate based on education indicators
-each year as the literacy rate is only calculated once during census but the education indicators are calculated every year. Thus helping in
-understanding how the literacy rate changes due to the change in education indicators.
-
 I have also created a medium post on this analysis that can be found here : 
 https://medium.com/@ishannangia/a-statistical-look-at-the-indian-literacy-rate-80a0e541ba7d
 
